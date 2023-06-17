@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirogava/dynamic-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirogava/dynamic-table/issues"
+  },
+  "homepage": "https://github.com/anirogava/dynamic-table#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
